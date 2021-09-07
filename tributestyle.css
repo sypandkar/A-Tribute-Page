@@ -1,0 +1,39 @@
+*{
+    margin: 2px 7%;
+    font-family: 'Oswald', sans-serif;
+}
+.main{
+    background-image:url(background.png);
+    background-size:contain;
+    background-position: top;
+    text-align:center;
+    /* opacity: 0.5; */
+    align-items: center;
+    color:black;
+    border: 10px solid yellowgreen;
+    width: auto;
+    height: auto;
+    width: auto;
+    font-family: 'Oswald', sans-serif;
+    font-weight:500;
+}
+h1 h2 h3{
+    font-weight: bold;
+    text-align: justify;
+}
+.subheading{
+    text-align: center;
+}
+/* for making image responsive width: 50%; & for making image circular border-redius:50%;  */
+img{
+    width: 50%;
+    border-radius: 50%;
+}
+.intro{
+    text-align: justify;
+    margin: auto;
+}
+.info{
+    text-align: justify;
+    margin: auto;
+}
